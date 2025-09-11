@@ -1,0 +1,17 @@
+* {
+  font-family: "Poppins" !important;
+}
+
+body , html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  color : #30254a;
+  transition: none;
+}
+
+a:hover {
+  color: none !important;
+}
