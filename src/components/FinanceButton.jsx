@@ -161,7 +161,7 @@ export default function FinanceButton(props) {
         }
     }
 
-    const amounts = [5, 20, 50, 100, 500, 1000];
+    const amounts = [5, 20, 50, 549, 1125, 2500];
 
     // Handle withdrawal form submission
     const handleWithdrawalSubmit = async (values) => {
@@ -338,5 +338,6 @@ export default function FinanceButton(props) {
 
 
     </>
+
 
 }
