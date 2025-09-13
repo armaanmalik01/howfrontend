@@ -6,7 +6,7 @@ const { Title, Text } = Typography;
 
 
 const referralTerms = [
-  'You and your friend will receive ₹200 when they sign up using your referral code.',
+  'You and your friend will receive ₹50 when they sign up using your referral code.',
   'Your friend must complete their first purchase to be considered a valid referral.',
   'Your unique referral code is valid for a single use.',
   'Referral earnings will be credited to your wallet within 24 hours of a successful referral.'
@@ -151,3 +151,4 @@ const Invite = () => {
 };
 
 export default Invite;
+
