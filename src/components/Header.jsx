@@ -22,6 +22,8 @@ export default function Header(props) {
             }}
         >Logo</span> */}
         <img src="logo.png" alt="logo" width={'45px'} />
+        
+        <a href="https://t.me/howorthearning" target="_blank">
         <div
             style={{
                 display:'flex',
@@ -41,5 +43,7 @@ export default function Header(props) {
                 }}  
             >Support</span>
         </div>
+            </a>
     </header>
+
 }
